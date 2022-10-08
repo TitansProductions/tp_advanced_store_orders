@@ -3,8 +3,6 @@
 ## Summary
 TP Advanced Store Orders is a custom script made for FiveM Roleplay Servers which allows the players to order food from any of the available stores and be delivered by their employees.
 
-The UI Enviroment idea is simillar to a website which is fully functionable, clean and ofcourse all the screen resolutions are supported.
-
 ## Showcase (Screenshots & Video)
 
 ## Frameworks
@@ -24,6 +22,7 @@ We are currently supporting ESX & QBcore (Not possible for Standalone since jobs
 
 1) Locales for changing the UI Enviroment based on the language you are interested or your server is based on.
 2) Clicking sound when interacting with the enviroment (Volume is configurable).
+3) All the screen resolutions are supported.
 
 ## Commands & Keybinds
 
