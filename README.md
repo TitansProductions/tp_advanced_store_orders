@@ -26,3 +26,7 @@ We are currently supporting ESX & QBcore (Not possible for Standalone since jobs
 ## Commands & Keybinds
 
 There is an option if you want the players to open the Store Orders UI with a command / keybind but i personally do not suggest it, only for testing. The purpose of this script is to be added by a developer in your server's phone script as a phone application or use our zones in order to open them from a place which has computer / laptop objects (still not the best solution).
+
+## For Developers
+
+You can open the UI Enviroment by calling `tp_advanced_store_orders:openStoreOrdersEnviroment` (Client Side)
