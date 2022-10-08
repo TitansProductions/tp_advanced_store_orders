@@ -5,9 +5,7 @@ TP Advanced Store Orders is a custom script made for FiveM Roleplay Servers whic
 
 The UI idea is simillar to a website which is fully functionable, clean and ofcourse all the screen resolutions are supported.
 
-## Features
-
-### Players: 
+## Player Features
 
 1) The players will be able to choose a store which is available (online) in the Main Page when an employee is in duty, the players will also be able to search based on a category or by the store's name. By selecting a store, all the products will be displayed by their image, price or description and can be ordered by adding to the cart and continue to the purchase page. 
 
