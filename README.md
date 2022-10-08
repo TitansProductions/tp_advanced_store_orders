@@ -20,7 +20,7 @@ We are currently supporting ESX & QBcore (Not possible for Standalone since jobs
 
 ## General Features
 
-1) Locales for changing the UI Enviroment based on the language you are interested or your server is based on (EN & GR).
+1) Locales for changing the UI Enviroment based on the language you are interested or your server is based on.
 2) Clicking sound when interacting with the enviroment (Volume is configurable).
 3) All the screen resolutions are supported.
 
