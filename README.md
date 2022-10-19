@@ -30,4 +30,4 @@ There is an option if you want the players to open the Store Orders UI with a co
 
 ## For Developers
 
-You can open the UI Enviroment by calling `tp_advanced_store_orders:openStoreOrdersEnviroment` (Client Side Event)
+You can open the UI Enviroment by calling `tp_store_orders:openStoreOrdersEnviroment` (Client Side Event)
